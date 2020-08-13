@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lukey15/Research/CPFA_random_drop/build/source/Base/Nest_automoc.cpp
+
+/home/lukey15/Research/CPFA_random_drop/source/Base/Nest.cpp
+Nest.h
+/home/lukey15/Research/CPFA_random_drop/source/Base/Nest.h
+
+/home/lukey15/Research/CPFA_random_drop/source/Base/Nest.h
+map
+-
+argos3/core/utility/math/vector2.h
+-
+argos3/core/utility/logging/argos_log.h
+-
+Pheromone.h
+/home/lukey15/Research/CPFA_random_drop/source/Base/Pheromone.h
+
+/home/lukey15/Research/CPFA_random_drop/source/Base/Pheromone.h
+argos3/core/utility/math/vector2.h
+-
+
